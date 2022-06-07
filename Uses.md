@@ -1,0 +1,2 @@
+- style.css made with [Annontations6](https://github.com/Annontations6)
+- break_eternity.js made with [Patashu](https://github.com/Patashu)
